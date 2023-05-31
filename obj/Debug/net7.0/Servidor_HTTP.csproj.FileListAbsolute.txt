@@ -1,0 +1,15 @@
+C:\Users\eltho\Documents\DesenvolvimentoWeb\Desenvolvimento C#\Servidor_HTTP\bin\Debug\net7.0\Servidor_HTTP.exe
+C:\Users\eltho\Documents\DesenvolvimentoWeb\Desenvolvimento C#\Servidor_HTTP\bin\Debug\net7.0\Servidor_HTTP.deps.json
+C:\Users\eltho\Documents\DesenvolvimentoWeb\Desenvolvimento C#\Servidor_HTTP\bin\Debug\net7.0\Servidor_HTTP.runtimeconfig.json
+C:\Users\eltho\Documents\DesenvolvimentoWeb\Desenvolvimento C#\Servidor_HTTP\bin\Debug\net7.0\Servidor_HTTP.dll
+C:\Users\eltho\Documents\DesenvolvimentoWeb\Desenvolvimento C#\Servidor_HTTP\bin\Debug\net7.0\Servidor_HTTP.pdb
+C:\Users\eltho\Documents\DesenvolvimentoWeb\Desenvolvimento C#\Servidor_HTTP\obj\Debug\net7.0\Servidor_HTTP.csproj.AssemblyReference.cache
+C:\Users\eltho\Documents\DesenvolvimentoWeb\Desenvolvimento C#\Servidor_HTTP\obj\Debug\net7.0\Servidor_HTTP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eltho\Documents\DesenvolvimentoWeb\Desenvolvimento C#\Servidor_HTTP\obj\Debug\net7.0\Servidor_HTTP.AssemblyInfoInputs.cache
+C:\Users\eltho\Documents\DesenvolvimentoWeb\Desenvolvimento C#\Servidor_HTTP\obj\Debug\net7.0\Servidor_HTTP.AssemblyInfo.cs
+C:\Users\eltho\Documents\DesenvolvimentoWeb\Desenvolvimento C#\Servidor_HTTP\obj\Debug\net7.0\Servidor_HTTP.csproj.CoreCompileInputs.cache
+C:\Users\eltho\Documents\DesenvolvimentoWeb\Desenvolvimento C#\Servidor_HTTP\obj\Debug\net7.0\Servidor_HTTP.dll
+C:\Users\eltho\Documents\DesenvolvimentoWeb\Desenvolvimento C#\Servidor_HTTP\obj\Debug\net7.0\refint\Servidor_HTTP.dll
+C:\Users\eltho\Documents\DesenvolvimentoWeb\Desenvolvimento C#\Servidor_HTTP\obj\Debug\net7.0\Servidor_HTTP.pdb
+C:\Users\eltho\Documents\DesenvolvimentoWeb\Desenvolvimento C#\Servidor_HTTP\obj\Debug\net7.0\Servidor_HTTP.genruntimeconfig.cache
+C:\Users\eltho\Documents\DesenvolvimentoWeb\Desenvolvimento C#\Servidor_HTTP\obj\Debug\net7.0\ref\Servidor_HTTP.dll
